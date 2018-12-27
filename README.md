@@ -25,3 +25,4 @@ Due to compatibility reasons, several modifications have been made:
 - BGR mean values **[103.94,116.78,123.68]** are subtracted
 - **scale: 0.017** is used, instead of the original std values for image preprocessing
 - **ceil_mode: false** is used in the first pooling layers ('pool1') 
+
